@@ -58,6 +58,33 @@
                      <div class="pro-price">699元</div>
                    </a>
                 </li>
+                 <li class="product">
+                   <a href="" target="_blank">
+                     <div class="pro-img">
+                       <img src="/imgs/nav-img/nav-3-3.png" alt="">
+                     </div>
+                     <div class="pro-name">小米电视4A 32英寸</div>
+                     <div class="pro-price">699元</div>
+                   </a>
+                </li>
+                 <li class="product">
+                   <a href="" target="_blank">
+                     <div class="pro-img">
+                       <img src="/imgs/nav-img/nav-3-3.png" alt="">
+                     </div>
+                     <div class="pro-name">小米电视4A 32英寸</div>
+                     <div class="pro-price">699元</div>
+                   </a>
+                </li>
+                 <li class="product">
+                   <a href="" target="_blank">
+                     <div class="pro-img">
+                       <img src="/imgs/nav-img/nav-3-3.png" alt="">
+                     </div>
+                     <div class="pro-name">小米电视4A 32英寸</div>
+                     <div class="pro-price">699元</div>
+                   </a>
+                </li>
               </ul>
             </div>
           </div>
