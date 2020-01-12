@@ -2,6 +2,7 @@
     width: 1226px;
     margin-right: auto;
     margin-left: auto;
+    position: relative;
   }
 
   a{
@@ -9,4 +10,9 @@
       width: 100%;
       height: 100%;
     }
+  }
+  input{
+    box-sizing: border-box;
+    outline: none;
+    font-size:14px; 
   }
