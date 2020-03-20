@@ -10,7 +10,7 @@
     </div>
   </div>
 </template>
-<script>
+<script> 
   export default{
     name:'service-bar'
   }
